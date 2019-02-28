@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1551321661 source:d:\c_language_project\hit\matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+

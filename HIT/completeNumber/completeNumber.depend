@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1551452914 source:d:\c_language_project\hit\completenumber\main.c
+	<stdio.h>
+	<stdlib.h>
+

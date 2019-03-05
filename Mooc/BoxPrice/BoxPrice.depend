@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1551787058 source:d:\c_language_project\mooc\boxprice\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1551699557 source:d:\c_language_project\hit\chicken\main.c
+	<stdio.h>
+	<stdlib.h>
+
